@@ -1,0 +1,76 @@
+#full{
+    width: 115%;
+    height: auto;
+}
+#inner_full{
+    width: 80%;
+    height: auto;
+}
+#header{
+    width: 115%;
+    height: 70px;
+    background-color: rgb(232, 15, 15);
+    color:white;
+
+}
+#body{
+    width: 115%;
+    min-height: 400px;
+    background-color: gray;
+}
+#footer{
+    width: 100%;
+    background-color:rgb(242, 18, 18);
+    color:white;
+    
+
+}
+
+#logout
+{
+    
+        width: 80px;
+        height: 25px;
+        background-color:rgb(216, 146, 24);
+       
+}
+#logout a:hover{
+	background:rgb(228, 226, 224);
+}
+
+
+ul li{
+    width: 30%;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 15px;
+    background: red;
+    color:gray;
+    float:left;
+    border-radius: 10px;
+    list-style: none;
+    text-align: center;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+#form{
+    width: 80%;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+}
+#save
+{
+    
+    width: 60px;
+    
+    background-color:red;
+    
+    
+}
+a{
+    text-decoration: none;
+}
